@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://simunrtylor6.github.io/mgh/sitemap_index.txt.gz
